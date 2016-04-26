@@ -16,7 +16,7 @@ exports.config = {
 
   /* LOCALHOST CONFIG */
   seleniumServerJar: "node_modules/protractor/selenium/selenium-server-standalone-2.52.0.jar",
-  baseUrl: 'http://localhost:3000/',
+  baseUrl: 'http://ng2auth.samvloeberghs.be',
 
   exclude: [],
 
